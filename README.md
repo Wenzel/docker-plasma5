@@ -9,7 +9,7 @@ This Dockerfile will build a plasma5 desktop based on Kubuntu-next repo.
     startx -display :1 -- :1 vt8
 
 * You can change `vt8` with any tty available.
-* Also, if you X server is already running on `:1`, increment this value as you want.
+* Also, if your X server is already running on `:1`, increment this value as you want.
 
 ## Allow access to your X server
 
