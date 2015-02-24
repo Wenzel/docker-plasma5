@@ -2,7 +2,7 @@
 
 This Dockerfile will build a plasma5 desktop based on Kubuntu-next repo.
 
-# Try plasma5 aside your current desktop
+# Try plasma5 beside your current desktop
 
 ## Start a second X server
 
